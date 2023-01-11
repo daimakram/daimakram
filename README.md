@@ -11,7 +11,7 @@ This is Daim. I love research, software engineering and solving problems.
 * 📫 How to reach me: [@daimakram](https://twitter.com/daim_quaesitor)
 
 ### Find me on:
-[![linkedin]([https://cloud.githubusercontent.com/assets/17016297/18839843/0e06a67a-83d2-11e6-993a-b35a182500e0.png](https://camo.githubusercontent.com/9354d286708efe5450394771240324309cd530a93524c988d92296fa01b4bd7e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2e706e67))][1]
+[![linkedin](https://camo.githubusercontent.com/9354d286708efe5450394771240324309cd530a93524c988d92296fa01b4bd7e/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f6c696e6b6564696e2e706e67)][1]
 
 [1]:https://www.linkedin.com/in/daim-armaghan-ia2021/
 
