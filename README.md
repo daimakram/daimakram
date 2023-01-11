@@ -1,8 +1,7 @@
 ### Hello there! 👋
-
+---
 
 This is Daim. I love research, software engineering and solving problems.
----
 
 #### About me:
 
