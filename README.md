@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hello there! 👋
 
 
 This is Daim. I love research, software engineering and solving problems.
 
-##### About me:
+#### About me:
 
 * 💻 I’m currently working on something very cool 😉.
 * 👨‍🔬 I'm interested in Machine Learning, Artificial Intelligence, Science, Big Data, Software Engineering.
