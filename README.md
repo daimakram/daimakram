@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 This is Daim. I love research, software engineering and solving problems.
 
 #About me:
@@ -10,4 +10,4 @@ This is Daim. I love research, software engineering and solving problems.
 🏫 I’m starting my PhD in Fall 2022!
 💬 I would love to connect with different people and work on projects together!
 📫 How to reach me: @daimakram
--->
+
